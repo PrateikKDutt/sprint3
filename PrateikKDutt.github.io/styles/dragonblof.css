@@ -1,0 +1,26 @@
+body{background-color: rgb(190, 227, 190);}
+body{padding:20px 80px 50px 50px}
+body{margin:0px 50px 60px 50px }
+
+h1{color: blue;}
+.img {max-width: 100%;height: auto;}
+ol{color:red;}
+ol{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+ol{font-size: 20px;}
+ol{padding:20px;}
+il{font-size: 30px;}
+il{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.image-standered {width:650px}
+.azure-text {color: rgb(10, 60, 136);}
+.ur-text {color: navy;}
+.bg{border-color:gold; border-width:9px; border-style:groove;}
+h1{font-size: 45px;} h2{font-size:30px;} 
+.boxcol{background-color: chartreuse;}
+h2{font-family:'Reem Kufi Fun', sans-serif;}
+h1{font-family:'Reem Kufi Fun', sans-serif;}
+.ncb{border-radius:20px; border-width: 9px; border-style: ridge; border-color: crimson;}
+p{font-family: Arial;} p{font-size:20px;}
+.elel{background-color: cornflowerblue;box-sizing: border-box;}
+@media (max-width:500px){
+  body{color: cyan;}
+}

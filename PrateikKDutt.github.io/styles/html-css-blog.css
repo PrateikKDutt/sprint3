@@ -1,0 +1,78 @@
+body{background-color:coral;}
+.injected-text {
+  margin-bottom: -25px;
+  text-align: center;}
+p{padding: 10px}
+p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.w-text{color:white;}
+
+
+.box-1 {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 50px 50px 50px 50px;
+    text-align: center;}
+    
+    .box-1-1 {
+      border-style: dotted;
+      border-color:grey;
+      border-width: 5px;
+      padding: 50px 50px 50px 50px;
+      text-align: center;}
+      
+    
+
+    .box-2 {
+      border-style: solid;
+      border-color: blue;
+      border-width: 15px;
+      padding:25px 50px 25px 50px;}
+
+.box-3{ border-style: solid;
+  border-color: black;
+  border-width: 5px;
+ background-color:red;
+}
+.box-32{ border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  padding:25px;
+ background-color:red;
+ font:white;
+}
+.box-33{ border-style: solid;
+  border-color: blue;
+  border-width: 15px;
+  padding:25px 0px 25px 25px;
+ background-color:red;
+ font:white;
+}
+ #box5{
+  border:10px;
+  border-style: solid;
+  width: 50px;
+  height: 50px;
+  font-size: 15px;
+  background-color: red;
+  margin-right:auto;
+ }
+ #box6{
+  border:10px;
+  border-style: solid;
+  width: 50px;
+  height: 50px;
+  font-size: 15px;
+  background-color: red;
+  margin-left:auto;
+ }
+ #box7{
+  border:10px;
+  border-style: solid;
+  width: 50px;
+  height: 50px;
+  font-size: 15px;
+  background-color: red;
+  margin-left:50%;
+  margin-right:50%;
+}
